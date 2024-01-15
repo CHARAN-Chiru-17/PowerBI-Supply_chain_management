@@ -60,7 +60,7 @@ Customize colors and labels as needed.
 
 8.Metrics: Display Split by Customer
 
-Create DAX measures for relevant metrics like on-time percentage, in-full percentage, etc., by customer.
+
 Add cards to display these metrics, and use the slicer to filter by customer.
 
 9.Metric: Display Split by City
