@@ -11,6 +11,9 @@ AtliQ Mart's Supply Chain Analytics project aims to address the service issues r
 
 3.Extract the month, week, and day information from the date column.
 
+## Data Sources
+  The primary dataset used for this analysis "dim_customers.csv","dim_date.csv", "dim_products.csv","dim_targets_orders" , "fact_order_lines.csv","fact_orders_aggregate.csv".
+
 ## Visualization
 
 1.Stacked Bar Chart: Order Quantity by Product Name
